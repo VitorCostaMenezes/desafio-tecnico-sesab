@@ -218,3 +218,54 @@ Para mais informações sobre as funcionalidades, consulte os arquivos do contro
 
 * **SESAB** - *Idealizador do sistema e solicitador do desafio* 
 * **Vitor Costa Menezes** - *Codificação, layout* - [Perfil GitHub](https://github.com/VitorCostaMenezes), [Perfil Linkedin](https://www.linkedin.com/in/vitor-costa-10073089/)
+
+
+## Telas
+
+### Tela inicial (Home)
+![<alt-text>](<https://github.com/VitorCostaMenezes/desafio-tecnico-sesab/blob/main/capturas/1_home.JPG>) 
+
+# 
+### Tela inicial (Uso de filtro)
+![<alt-text>](<https://github.com/VitorCostaMenezes/desafio-tecnico-sesab/blob/main/capturas/2_home_filtro.JPG>)
+
+#
+### Tela Inicial (Modal Detalhar)
+
+![<alt-text>](<https://github.com/VitorCostaMenezes/desafio-tecnico-sesab/blob/main/capturas/3_home_detalhar.JPG>)
+
+#
+### Tela Inicial (Modal Editar parte-1)
+
+![<alt-text>](<https://github.com/VitorCostaMenezes/desafio-tecnico-sesab/blob/main/capturas/4_home_editar_pt1.JPG>)
+
+
+### Tela Inicial (Modal Editar parte-2)
+
+![<alt-text>](<https://github.com/VitorCostaMenezes/desafio-tecnico-sesab/blob/main/capturas/5_home_editar_pt2.JPG>)
+
+#
+### Tela Inicial (Botão Excluir)
+
+![<alt-text>](<https://github.com/VitorCostaMenezes/desafio-tecnico-sesab/blob/main/capturas/6_home_bt_excluir.JPG>)
+
+#
+### Tela cadastro 
+
+![<alt-text>](<https://github.com/VitorCostaMenezes/desafio-tecnico-sesab/blob/main/capturas/7_cadastro.JPG>)
+#
+### Tela cadastro (Confirmação)
+
+![<alt-text>](<https://github.com/VitorCostaMenezes/desafio-tecnico-sesab/blob/main/capturas/8_cadastro.JPG>)
+
+
+
+
+
+
+
+
+
+
+
+
