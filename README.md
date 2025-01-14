@@ -72,7 +72,7 @@ $ composer install
 $ php artisan migrate
 ```
 
-- Execute o seeders para realizar um pré carregamento de dados fakers para execução de testes. É importante destacar que a tabel profiles(excencial para a o cadastro e edição de usuários) no momento só é preenchida desta forma, em caso da não utilização dos dados fakers, faz-se necessária a edição do arquivo "database\seeders\DatabaseSeeder.php".
+- Execute o seeders para realizar um pré carregamento de dados fakers para execução de testes. É importante destacar que a tabel profiles(esencial para o cadastro e edição de usuários) no momento só é preenchida desta forma, em caso da não utilização dos dados fakers, faz-se necessária a edição do arquivo "database\seeders\DatabaseSeeder.php".
 Segue abaixo o comando para execução dos seeders:
 ```
 $ php artisan db:seed
