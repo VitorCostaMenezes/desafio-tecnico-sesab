@@ -1,0 +1,47 @@
+.DS_Store
+frontend/node_modules
+/dist
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+/backend//.phpunit.cache
+/backend/node_modules
+/backend//public/build
+/backend//public/hot
+/backend//public/storage
+/backend//storage/*.key
+/backend//storage/pail
+/backend//vendor
+.env
+.env.backup
+/backend/.env.production
+/backend/.phpactor.json
+/backend/.phpunit.result.cache
+/backend/Homestead.json
+/backend/Homestead.yaml
+/backend/auth.json
+/backend/npm-debug.log
+/backend/yarn-error.log
+/backend//.fleet
+/backend//.idea
+/backend//.nova
+/backend//.vscode
+/backend//.zed
